@@ -28,19 +28,6 @@
 
 ---
 
-## 📸 Screenshots & GIF
-
-### Game Grid Example
-![Grid Example](assets/walkable.png)
-
-### Player Moving with A* (Gameplay)
-![Gameplay GIF](assets/gameplay.gif)
-
-### Treasure, Gold, and Damage Cells
-![Treasure and Gold](assets/treasure.png)
-![Damage Cell](assets/damage.png)
-
----
 
 ## ⚙️ Features
 
